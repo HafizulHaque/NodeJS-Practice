@@ -1,0 +1,14 @@
+{
+  "name": "nodeintro2",
+  "version": "1.0.0",
+  "description": "Simple test with express library",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hafizul Haque",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

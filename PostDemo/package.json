@@ -1,0 +1,19 @@
+{
+  "name": "postdemo",
+  "version": "1.0.0",
+  "description": "observation of post request handling",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "post",
+    "request"
+  ],
+  "author": "hafizul haque",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
